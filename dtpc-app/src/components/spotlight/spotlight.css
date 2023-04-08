@@ -1,0 +1,17 @@
+.spotlight-banner-heading
+{
+    font-family: 'Playfair Display', serif;
+    font-size: 6rem;
+}
+.spotlight-banner-para
+{
+    font-size: 1rem;
+}
+.spotlight-explore-btn
+{
+    padding: 10px;
+    opacity: 1;
+    border: 1;
+    border-color: white;
+    background-color: transparent;
+}

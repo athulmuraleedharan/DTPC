@@ -1,0 +1,39 @@
+.welcomepage-left{
+
+}
+.welcomepage-left
+{
+    /* background-color: red; */
+    width: 50%;
+    padding: 150px;
+}
+.welcomepage-right
+{
+    /* background-color: blue; */
+    width: 50%;
+    padding: 150px;
+}
+/* .hero-slide
+{
+    background-image: url(C:\Users\athul.muraleedharan\Downloads\soumya\DTPC-React\dtpc-app\src\images\kalapthi-2-20230223103301487493.jpg);
+    padding:"100px";
+    color:black;
+} */
+.slide-content 
+{
+    color:"white";
+}
+.exploregallery-heading
+{
+    text-transform: uppercase;
+    margin-top: 80px;
+    margin-left: 90px;
+    color: red;
+}
+.exploregallery-heading-caption
+{
+
+    font-size: 2.8rem;
+    margin-left: 90px;
+    font-family: 'Playfair Display', serif;
+}

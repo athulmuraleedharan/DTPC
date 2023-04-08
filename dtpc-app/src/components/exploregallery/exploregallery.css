@@ -1,0 +1,21 @@
+.explore-gallery
+{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+    margin-left: 90px;
+    margin-right: 170px;
+}
+.explore-gallery-divone
+{
+    height: 418px;
+    background-color: red;
+    width: 300px;
+}
+.explore-gallery-divtwo
+{
+    height: 350px;
+    background-color: white;
+    width: 300px;
+    color:white;
+}

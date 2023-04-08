@@ -1,0 +1,19 @@
+.flex {
+  display: flex;
+}
+.flex div {
+  flex: 1;
+  margin: 5px; /* need some space ?*/
+}
+img {
+  width: 100%;
+}
+.imagecard:hover {
+  opacity: 0.6;
+  transition: 0.3s;
+}
+.imagecard-caption
+{
+  padding-top: 10px;
+  text-align: center;
+}

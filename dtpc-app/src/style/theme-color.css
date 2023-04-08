@@ -1,0 +1,95 @@
+a:hover {
+  color: #da202c !important;
+  transition: all 0.6s ease-in-out;
+  -o-transition: all 0.6s ease-in-out;
+  -ms-transition: all 0.6s ease-in-out;
+  -moz-transition: all 0.6s ease-in-out;
+  -webkit-transition: all 0.6s ease-in-out;
+}
+/* #header .navbar-nav .nav-link {
+  color: #f1f1f1;
+} */
+.fixed-header {
+  background: #fff;
+  -webkit-box-shadow: 0 4px 6px -6px #e9e9e9;
+  -moz-box-shadow: 0 4px 6px -6px #e9e9e9;
+       box-shadow: 0 6px 6px -6px #e9e9e9;
+}
+.text-red {
+  color: red;
+}
+
+.bg-gray {
+  background-color: #F9F9FB;
+}
+
+hr {
+  background-color: #bbb !important;
+}
+.text-theme {
+  color: #da202c;
+}
+.border-red {
+  border:1px solid #da202c;
+}
+.theme-bg {
+ background-color: #da202c;
+}
+.list-group li a:hover {
+  color: #da202c!important;
+}
+.text-green {
+  color: #0fb361;
+}
+.text-red {
+  color: red;
+}
+.text-gray {
+  color: #a1a1a1;
+}
+.dark-gray {
+  color: #5c5c5c;
+}
+.theme-btn {
+  background-color: #da202c !important;
+}
+.theme-btn:hover{
+  background: #da202c !important;
+
+}
+.stellarnav.mobile ul {
+  background: rgb(69 149 112);
+}
+
+#header .navbar-nav .nav-link a:active {
+  color: #da202c!important;
+}
+.active {
+  color: #da202c!important;
+}
+.back-to-top {
+  background-color: #fcfcfc;
+  text-decoration: none;
+  cursor: pointer;
+  width: 56px;
+  height: 56px;
+  z-index: 999;
+  position: fixed;
+  right: 100px;
+  bottom: 15px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+  border-radius: 100%;
+}
+.back-to-top:hover {
+  background-color: #e6e6e6;
+}
+.back-to-top:active {
+  box-shadow: none;
+  background-color: #e6e6e6;
+}
+svg{
+  fill: #fd8585
+}

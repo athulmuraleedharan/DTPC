@@ -1,0 +1,26 @@
+ .slick-prev:before {
+    content: '';
+    background: url("images/left.svg") no-repeat;
+    padding: 20px;
+  }
+
+  [dir='rtl'] .slick-prev:before {
+    content: '';
+    background: url("images/left.svg") no-repeat;
+
+    padding: 20px;
+  }
+
+  .slick-next:before {
+    content: '';
+    background: url("images/right.svg") no-repeat;
+    padding: 20px;
+  }
+
+  [dir='rtl'] .slick-next:before {
+    content: '';
+    background: url("imagesleft.svg") no-repeat;
+
+  } 
+
+  
